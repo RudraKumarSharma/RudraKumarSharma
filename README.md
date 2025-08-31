@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RudraKumarSharma , 18 y/o
+- 👋 Hi, I’m @RudraKumarSharma , 19 y/o
 - 👀 I’m interested in Web3, LLMs, Fullstack, ML
 - 🌱 I’m currently learning Python, C++(with DSA)
 - 💞️ I’m looking to collaborate on open source
